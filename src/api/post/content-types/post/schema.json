@@ -29,6 +29,9 @@
     "CategoryId": {
       "type": "integer",
       "unique": true
+    },
+    "ImageLink": {
+      "type": "string"
     }
   }
 }
