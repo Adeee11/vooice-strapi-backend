@@ -16,21 +16,16 @@
       "type": "integer",
       "unique": true
     },
-    "PostId": {
-      "type": "integer",
-      "unique": true
-    },
     "Title": {
       "type": "string"
     },
     "content": {
       "type": "string"
     },
-    "CategoryId": {
-      "type": "integer",
-      "unique": true
-    },
     "ImageLink": {
+      "type": "string"
+    },
+    "category": {
       "type": "string"
     }
   }
